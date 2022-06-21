@@ -62,7 +62,7 @@ repository_tree: master
 ## => Paths
 ##############################
 paths:
-  root    : "yz214/yz214.github.io"# title link url, "/" (default)
+  root    : "/"# title link url, "/" (default)
   home    : "/" # home layout url, "/" (default)
   archive : "/archive.html" # "/archive.html" (default)
   rss     : "/feed.xml" # "/feed.xml" (default)
